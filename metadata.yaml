@@ -1,0 +1,35 @@
+_repo: The-Maner-of-the-Tryumphe-of-Caleys-and-Bulleyn-and-The-Noble-Tryumphant-Coronacyon-of-Quene-__32515
+_version: 0.1.0
+contributor:
+  printer:
+    agent_name: Worde, Wynkyn de
+    aliases:
+    - De Worde, Wynkyn
+    - Wynkyn de Worde
+    gutenberg_agent_id: '35852'
+    url: http://www.gutenberg.org/2009/agents/35852
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Goldsmid, Edmund
+    alias: Goldsmid, Edmund Marsden
+    gutenberg_agent_id: '2022'
+    url: http://www.gutenberg.org/2009/agents/2022
+description: ''
+gutenberg_issued: '2010-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anne Boleyn, Queen, consort of Henry VIII, King of England, 1507-1536'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Henry VIII, 1509-1547'
+title: The Maner of the Tryumphe of Caleys and Bulleyn and The Noble Tryumphant Coronacyon
+  of Quene Anne, Wyfe unto the Most Noble Kynge Henry VIII
+url: http://www.gutenberg.org/ebooks/32515
